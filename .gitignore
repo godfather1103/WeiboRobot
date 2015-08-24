@@ -3,3 +3,4 @@ myConfig.py
 myConfig-backup.py
 log.txt
 /.settings/*
+*.vbs
